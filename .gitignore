@@ -1,0 +1,11 @@
+.DS_Store
+.vs/
+.vsconfig
+Assembly-CSharp.csproj
+Flappy Merl.sln
+Library/
+Logs/
+Packages/
+UserSettings/
+builds/
+obj/
